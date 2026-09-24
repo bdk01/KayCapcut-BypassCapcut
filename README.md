@@ -16,6 +16,30 @@
 
 > [!IMPORTANT]
 > **Tool này hoàn toàn miễn phí.** Nếu có người bán lại tool dưới bất kỳ hình thức nào, anh em nên cẩn thận vì rất có thể đó là hành vi lừa đảo.
+>
+> **Chỉ tải tool từ Release chính thức của KayTech:**  
+> https://github.com/bdk01/KayCapcut-BypassCapcut/releases/tag/v1.0.0
+
+## 📥 Tải tool
+
+### 👉 KayTech CapCut Tool v1.0.0
+
+**Release chính thức:**  
+https://github.com/bdk01/KayCapcut-BypassCapcut/releases/tag/v1.0.0
+
+Vào phần **Assets** của Release và tải file:
+
+```text
+CapCut_Tool.exe
+```
+
+> [!CAUTION]
+> **Không tải tool từ link re-up, link rút gọn lạ hoặc nguồn không rõ ràng.**
+> Chỉ sử dụng file được phát hành trực tiếp tại repository này để tránh nguy cơ bị chỉnh sửa, repack hoặc chèn phần mềm không mong muốn.
+>
+> Nếu Windows Defender / Microsoft Edge hiển thị cảnh báo với file `.exe` chưa ký số, bạn có thể tự kiểm tra file bằng **Windows Defender** hoặc **VirusTotal** trước khi chạy.
+
+---
 
 ## ✨ Giới thiệu
 
@@ -28,7 +52,47 @@ Mục tiêu của tool là giúp anh em:
 - 🎯 Tập trung vào những chức năng thiết thực, dễ dùng.
 - 🔄 Tiếp tục hoàn thiện dựa trên feedback từ cộng đồng.
 
+### 🚀 Các tính năng hiện tại
+
+- 🎵 **Nhạc Pro → Free**
+- ✨ **Hiệu ứng chữ → Free**
+- 🎬 **Hiệu ứng video → Free**
+- 📝 **Tạo phụ đề tự động → Free**
+- 🔊 **Chuyển text / phụ đề sang giọng nói → Free**
+
 Tool hiện ưu tiên những chức năng mình thường xuyên sử dụng. Nếu anh em thấy còn thiếu tính năng, gặp lỗi hoặc muốn đề xuất thêm phần nào, cứ gửi góp ý để mình tiếp tục cập nhật.
+
+---
+
+## 📚 Mục đích sử dụng
+
+Tool được chia sẻ **miễn phí** và phục vụ chủ yếu cho:
+
+- học tập;
+- nghiên cứu;
+- thử nghiệm cá nhân;
+- tìm hiểu cách CapCut lưu và xử lý project.
+
+Người dùng tự chịu trách nhiệm về cách sử dụng tool, nội dung được chỉnh sửa và việc tuân thủ điều khoản sử dụng của CapCut cũng như các quy định liên quan.
+
+> **KayTech không bán tool này.** Nếu bạn thấy một bản thu phí mang tên KayTech CapCut Tool, hãy kiểm tra lại nguồn trước khi sử dụng.
+
+---
+
+## 🛡️ An toàn khi tải tool
+
+Bản chính thức chỉ được phát hành tại:
+
+https://github.com/bdk01/KayCapcut-BypassCapcut/releases/tag/v1.0.0
+
+Để hạn chế rủi ro:
+
+1. Chỉ tải từ **GitHub Release chính thức** ở trên.
+2. Không tải file được người khác re-upload lên Drive, MediaFire, Telegram hoặc website lạ nếu không xác minh được nguồn.
+3. Không sử dụng các bản bị chỉnh sửa / repack không rõ người phát hành.
+4. Nếu còn lo ngại, hãy scan file bằng **Windows Defender** hoặc **VirusTotal** trước khi mở.
+
+> Không có phần mềm nào nên được tin chỉ dựa vào lời quảng cáo “100% không virus”. Việc tải đúng nguồn chính thức và tự kiểm tra file là cách an toàn nhất.
 
 ---
 
@@ -109,13 +173,17 @@ Nếu tool hữu ích với bạn, cách đơn giản nhất để ủng hộ d�
 1. Theo dõi các kênh của KayTech.
 2. Để lại một **Like / Comment** để mình biết mọi người đang quan tâm phần nào.
 3. Gửi lỗi hoặc đề xuất tính năng qua Zalo.
-4. Chia sẻ tool cho những người thực sự cần.
+4. Chia sẻ **link Release chính thức** cho những người thực sự cần.
 
 Feedback thực tế từ mọi người sẽ giúp các bản cập nhật sau hữu ích hơn.
 
 ---
 
 <div align="center">
+
+### 📥 Download
+
+https://github.com/bdk01/KayCapcut-BypassCapcut/releases/tag/v1.0.0
 
 ### 💜 Cảm ơn bạn đã quan tâm và đồng hành cùng KayTech!
 
