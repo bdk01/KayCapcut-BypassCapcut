@@ -16,7 +16,8 @@
 
 > [!IMPORTANT]
 > **Tool này hoàn toàn miễn phí.** Nếu có người bán lại tool dưới bất kỳ hình thức nào, anh em nên cẩn thận vì rất có thể đó là hành vi lừa đảo.
->
+> **File Docs:**  
+> https://docs.google.com/document/d/1HlIkvY4rUYBq5giwGvsVfewBGWLQ7e8M/edit?usp=sharing&ouid=114869275216255766358&rtpof=true&sd=true
 > **Chỉ tải tool từ Release chính thức của KayTech:**  
 > https://github.com/bdk01/KayCapcut-BypassCapcut/releases/tag/v1.0.0
 
