@@ -67,6 +67,44 @@ Tool hiện ưu tiên những chức năng mình thường xuyên sử dụng. N
 
 ---
 
+## 🚀 Cách sử dụng
+
+> [!WARNING]
+> Trước khi chạy tool, hãy **tạo một bản sao (backup) của project CapCut** để phòng trường hợp xảy ra lỗi ngoài ý muốn.
+
+### 📌 Các bước thực hiện
+
+1. 🛑 **Tắt project CapCut đang chỉnh sửa**
+   - Đóng project và thoát CapCut trước khi chạy tool.
+   - Nên tạo một bản sao của project để tránh mất dữ liệu nếu tool gặp lỗi.
+
+2. ⏳ **Chờ khoảng 2 phút sau khi đóng CapCut**
+   - Sau khi edit xong, hãy đợi khoảng **2 phút** rồi mới chạy tool.
+   - Nếu chạy ngay sau khi đóng CapCut, tool có thể **không nhận được project**.
+   - Nếu vẫn không nhận project, có thể **khởi động lại máy** rồi chạy lại tool.
+
+3. 🛠️ **Chạy tool**
+   - Mở file `CapCut_Tool.exe`.
+   - Chờ tool xử lý project hoàn tất.
+
+4. 🎬 **Mở lại project CapCut**
+   - Khởi động lại CapCut.
+   - Mở project vừa được xử lý.
+
+5. 📤 **Export video**
+   - Kiểm tra lại project.
+   - Nếu mọi thứ hoạt động bình thường, tiến hành **Export video**.
+
+### 💡 Lưu ý
+
+- ✅ Luôn **backup project** trước khi sử dụng.
+- ✅ Không chạy tool khi CapCut vẫn đang mở project.
+- ✅ Nên lưu project trước khi đóng CapCut.
+- 🔄 Nếu tool không nhận project: đóng CapCut → chờ khoảng 2 phút → chạy lại tool.
+- 🖥️ Nếu vẫn gặp lỗi, thử **restart máy** rồi thực hiện lại từ đầu.
+
+---
+
 ## 📚 Mục đích sử dụng
 
 Tool được chia sẻ **miễn phí** và phục vụ chủ yếu cho:
